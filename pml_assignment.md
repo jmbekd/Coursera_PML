@@ -7,8 +7,8 @@ Human Activity Recognition - Predicting The Quality of Execution
 
 ## Synopsis
 A Random Forest model was created to predict how well an individual executed 
-(i.e., the quality of execution) a bicep curl using a dumbbell. The out-of-
-bag error was estimated to be 0.87% based on 10-fold cross-validation and the 
+(i.e., the quality of execution) a bicep curl using a dumbbell. The out-of-bag 
+error was estimated to be 0.87% based on 10-fold cross-validation and the 
 out-of-sample error rate for the validation data set was approximately 0.8%;
 these results suggested that the Random Forest model was very accurate. The 
 Random Forest model was applied to the test data set and all twenty predictions
